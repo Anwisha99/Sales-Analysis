@@ -2,6 +2,9 @@
 
 This repository contains the "Sales Dashboard" project, showcasing an interactive visualization of sales performance metrics. The dashboard provides insights into total sales, profits, quantities sold, and performance by location, salesperson, and product.
 
+<img src = "https://github.com/Anwisha99/Sales-Analysis/blob/main/PROJECT%202.png" width="850" height="500" alt="report1"/> &emsp;
+
+
 # Key Features
 
 1. Total Sales by Year and Month
